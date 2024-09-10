@@ -4,6 +4,9 @@ public class sumDemo {
     public static void main(String[] args) {
  		Scanner scnr = new Scanner(System.in);
 	    	int sum;
+    /**
+    *code below asks for user input for the first number.
+    **/
 		System.out.println("Enter first num:");
 		int num1 = scnr.nextInt();
 		System.out.println("Enter second num: ");
