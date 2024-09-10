@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class sumDemo {
+  /**
+  *This program is intended to find the sum of two numbers inputted by the user
+  **/
     public static void main(String[] args) {
  		Scanner scnr = new Scanner(System.in);
 	    	int sum;
